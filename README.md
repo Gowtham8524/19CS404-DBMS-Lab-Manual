@@ -44,3 +44,10 @@
 | 8      | Procedures, Functions         | No            |
 | 9      | Cursors, Exception Handling   | No            |
 | 10     | Triggers                      | No            |
+
+
+**ER DIAGRAM**
+
+
+<img width="588" height="476" alt="image" src="https://github.com/user-attachments/assets/ce459422-b8b1-4bed-82d4-ab7044fe2df3" />
+
